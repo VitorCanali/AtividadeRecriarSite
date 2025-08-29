@@ -20,7 +20,7 @@ Foram comparadas duas versões:
 
 ## ⚙️ Tecnologias Utilizadas
 - **HTML5 (semântico)** → Estrutura do site, com tags como `<header>`, `<nav>`, `<section>`, `<main>` e `<footer>` para melhor organização e acessibilidade  
-- **CSS3** → Estilização e responsividade básica  
+- **CSS** → Estilização e responsividade básica  
 - **Google Fonts (Lato)** → Fonte para os textos  
 - **Font Awesome** → Ícones (coroa, usuário, pesquisa, redes sociais, etc.)  
 
@@ -72,4 +72,4 @@ Foram comparadas duas versões:
 
 ---
 
-✍️ **Autor:** Projeto acadêmico de prática em **HTML semântico & CSS** inspirado no site oficial da Crunchyroll.  
+ **Projeto acadêmico de prática em *HTML semântico & CSS* inspirado no site oficial da Crunchyroll.**  
