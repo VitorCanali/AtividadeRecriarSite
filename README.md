@@ -64,10 +64,11 @@ Foram comparadas duas versões:
 
 ## 📷 Capturas de Tela
 ### 🔸 Site Réplica
-![Replica](./assets/site-replica.png)
+![Replica](./assets/Replica1.png)
+![Replica](./assets/Replica2.png)
 
 ### 🔸 Site Real
-![Real](./assets/site-real.png)
+![Real](./assets/Site-Real.png)
 
 ---
 
