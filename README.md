@@ -65,7 +65,7 @@ Foram comparadas duas versões:
 ## 📷 Capturas de Tela
 ### 🔸 Site Réplica
 ![Replica](./assets/Replica1.png)
-![Replica](./assets/Replica2.png)
+<img src="./assets/Replica2.png" alt="Replica" width="717px">
 
 ### 🔸 Site Real
 ![Real](./assets/Site-Real.png)
